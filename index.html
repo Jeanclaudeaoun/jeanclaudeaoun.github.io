@@ -632,8 +632,8 @@
       $("#subbtn").html("Sending ... ");
       $.ajax({
         url: "http://jeanclaudeaoun.epizy.com/api/contactForm.php",
-        method: "POST",
-        type: "POST",
+        method: "GET",
+        type: "GET",
         data: formData,
         success: function(msg){
           $("#ResMsg").html("<div class='alert alert-success'><strong>Success</strong>Your message was sent</div>");
