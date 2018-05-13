@@ -623,18 +623,17 @@
       var message = $("#message");
 
       var formData = {
-        "Name": name.val().toString(),
-        "Subject": subject.val().toString(),
-        "Email": email.val().toString(),
-        "Message": message.val().toString()
+        Name: name.val().toString(),
+        Subject: subject.val().toString(),
+        Email: email.val().toString(),
+        Message: message.val().toString()
       };
       $("#subbtn").attr("disabled", "disabled");
       $("#subbtn").html("Sending ... ");
       $.ajax({
-        url: "https://script.google.com/macros/s/AKfycbyYY3hxPedqb9d7HZ0CUMZjdQiSE8E7LyYqeQhxmBEPJEbOwK0U/exec",
+        url: "http://jeanclaudeaoun.epizy.com/api/contactForm.php",
         method: "POST",
         type: "POST",
-        contentType: "application/json",
         data: formData,
         success: function(msg){
           $("#ResMsg").html("<div class='alert alert-success'><strong>Success</strong>Your message was sent</div>");
