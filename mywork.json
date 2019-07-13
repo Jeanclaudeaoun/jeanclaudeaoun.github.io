@@ -1,0 +1,26 @@
+[
+  {
+    "title": "2D Browser Games",
+    "subtitle": "Cherpa.io",
+    "type":"JavaScript",
+    "subtype":"Phaser.io / ES6",
+    "body": "Private Games for <a target='_blank' href='http://cherpa.io'>CHERPA inc</a> <br>Many 2d games (Drones, Rockets, City)  <br>Physics, Collision, Spritesheet animation, etc...",
+    "imgurl": "img/work/cherpagames.gif"
+  },
+  {
+    "title": "oppa2",
+    "subtitle": "lisa2",
+    "type":"APP",
+    "subtype":"iOS / Androind",
+    "body": "ya 3isaa 3isa <br> oppa lisaz",
+    "imgurl": "img/work/mourshed.gif"
+  },
+  {
+    "title": "oppa3",
+    "subtitle": "lisa3",
+    "type":"APP",
+    "subtype":"iOS / Androind",
+    "body": "ya 3isaa 3isa <br> oppa lisaz",
+    "imgurl": "img/work/mourshed.gif"
+  }
+]
