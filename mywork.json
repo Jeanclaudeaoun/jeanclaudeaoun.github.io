@@ -1,26 +1,37 @@
-[
+[{
+    "title": "UTrack Global",
+    "subtitle": "Logistics Fully-integrated System",
+    "type": "APP",
+    "subtype": "iOS / Android / PHP",
+    "body": "U-TRACK is a fully integrated logistics management system with features: Fleet tracking GPS, push notifications, chatting system, E-signature for documents, reporting system, etc...",
+    "imgurl": "img/work/utrack.gif",
+    "url": "https://utrackglobal.com"
+  },
   {
     "title": "2D Browser Games",
     "subtitle": "Cherpa.io",
-    "type":"JavaScript",
-    "subtype":"Phaser.io / ES6",
+    "type": "JavaScript",
+    "subtype": "Phaser.io / ES6",
     "body": "Private Games for <a target='_blank' href='http://cherpa.io'>CHERPA inc</a> <br>Many 2d games (Drones, Rockets, City)  <br>Physics, Collision, Spritesheet animation, etc...",
-    "imgurl": "img/work/cherpagames.gif"
+    "imgurl": "img/work/cherpagames.gif",
+    "url": "http://www.cherpa.io"
   },
   {
-    "title": "oppa2",
-    "subtitle": "lisa2",
-    "type":"APP",
-    "subtype":"iOS / Androind",
-    "body": "ya 3isaa 3isa <br> oppa lisaz",
-    "imgurl": "img/work/mourshed.gif"
+    "title": "Websites",
+    "subtitle": "Development &amp; Design",
+    "type": "Fullstack",
+    "subtype": "HTML / PHP",
+    "body": "<a class='link' target='_blank' href='http://www.nar.ai'>Nar AI</a>,  <a class='link' target='_blank' href='http://27grouplb.com'>&nbsp;&nbsp;&nbsp;&nbsp;27 Grouplb</a>,  <a class='link' target='_blank' href='http://americandreamlawoffice.com'>&nbsp;&nbsp;&nbsp;&nbsp;American Dream Law Office</a>,  <a class='link' target='_blank' href='http://curiosity-coaching.com '>&nbsp;&nbsp;&nbsp;&nbsp;Curiosity Coaching</a>,  &nbsp;&nbsp;&nbsp;&nbsp;And many more ...<br><br>",
+    "imgurl": "img/work/websites.gif",
+    "url": null
   },
   {
-    "title": "oppa3",
-    "subtitle": "lisa3",
-    "type":"APP",
-    "subtype":"iOS / Androind",
-    "body": "ya 3isaa 3isa <br> oppa lisaz",
-    "imgurl": "img/work/mourshed.gif"
+    "title": "Al Mourshed",
+    "subtitle": "Discovery app for local businesses (similar to \"yelp.com\")",
+    "type": "APP",
+    "subtype": "iOS / Androind",
+    "body": "Advanced search and filtering based on Location, Categories, etc...",
+    "imgurl": "img/work/mourshed.gif",
+    "url": null
   }
 ]
