@@ -10,8 +10,8 @@
   {
     "title": "2D Browser Games",
     "subtitle": "Cherpa.io",
-    "type": "JavaScript",
-    "subtype": "Phaser.io / ES6",
+    "type": "2D Games",
+    "subtype": "Phaser.io / JS ES6",
     "body": "Private Games for <a target='_blank' href='http://cherpa.io'>CHERPA inc</a> <br>Many 2d games (Drones, Rockets, City)  <br>Physics, Collision, Spritesheet animation, etc...",
     "imgurl": "img/work/cherpagames.gif",
     "url": "http://www.cherpa.io"
@@ -29,9 +29,63 @@
     "title": "Al Mourshed",
     "subtitle": "Discovery app for local businesses (similar to \"yelp.com\")",
     "type": "APP",
-    "subtype": "iOS / Androind",
+    "subtype": "iOS / Android",
     "body": "Advanced search and filtering based on Location, Categories, etc...",
     "imgurl": "img/work/mourshed.gif",
+    "url": null
+  },
+  {
+    "title": "Beirut Global Game Jam 2018",
+    "subtitle": "2D game 'glioblast'",
+    "type": "Unity 3D",
+    "subtype": "C#",
+    "body": "Global game jam submission",
+    "imgurl": "img/work/glioblast.gif",
+    "url": "/glioblast"
+  },
+  {
+    "title": "Blockchain Project",
+    "subtitle": "Basic Blockchain (written from scratch using JS)",
+    "type": "Framework",
+    "subtype": "JS / Java",
+    "body": "Storing grades for students, Mining blocks / Chain validation, Simulation of a peer-to-peer network, University / Schools grading system (Work still in progress ...)",
+    "imgurl": "img/work/blockchain.jpg",
+    "url": null
+  },
+  {
+    "title": "Augmented Reality",
+    "subtitle": "2nd PLACE: A.I. Beirut Startup Weekend by Google for Entrepreneurs 2017",
+    "type": "iOS APP",
+    "subtype": "AR-kit",
+    "body": "Pet that uses AI to learn and to be trained, Augmented reality floor detection (AR kit)",
+    "imgurl": "img/work/aipet.jpg",
+    "url": null
+  },
+  {
+    "title": "NeuralShack",
+    "subtitle": "Chat with specialists",
+    "type": "WebApp",
+    "subtype": "Node / Mongo db",
+    "body": "Chatting system that connects users with specialists. Still in production...",
+    "imgurl": "img/work/neuralshack.jpg",
+    "url": "https://github.com/Jeanclaudeaoun/neural-shack-backend"
+  },
+  {
+    "title": "Clerve App",
+    "subtitle": "Company App",
+    "type": "APP",
+    "subtype": "iOS / Android",
+    "body": "Company details, Map, New Offers, News (Fetched from API), Contact us form, Live Chat",
+    "imgurl": "img/work/clerveapp.gif",
+    "url": null
+  },
+  {
+    "title": "E-commerce Platform",
+    "subtitle": "Full online shopping system",
+    "type": "APP / WebApp",
+    "subtype": "iOS / Android / PHP",
+    "body": "E-commerce App and website with Admin Page: Categories, Sub-categories, Orders, User registration and payment",
+    "imgurl": "img/work/ecommercesystem.jpg",
     "url": null
   }
 ]
